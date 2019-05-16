@@ -22,4 +22,5 @@
 // echo strlen($str) <= 25 ? $str : substr($str, 0,25)."...";
 echo 123;
 echo 456;
+echo 789;
 
